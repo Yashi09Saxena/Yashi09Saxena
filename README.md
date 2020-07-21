@@ -1,4 +1,4 @@
-### Hi This is Yashi Saxena 👋 <img align="right" width="200" height="300" src=https://user-images.githubusercontent.com/53362962/88055374-7eaef580-cb7c-11ea-8e0e-ac5ef9ab7e50.png>
+### Hi This is Yashi Saxena 👋 <img align="right" width="200" height="300" src=https://user-images.githubusercontent.com/53362962/88061218-d8b3b900-cb84-11ea-8de1-6b9e4eea4943.png>
 
 <p align="left">
 	<a href="https://github.com/Yashi09Saxena"><img src="https://img.shields.io/github/followers/Yashi09Saxena.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on new ideas
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about creative in work
-- 📫 How to reach me: ![email](ysaxena1998@gmail.com)
+- 📫 How to reach me: ![Gmail](ysaxena1998@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: The first computer programmer was a woman named Ada Lovelace.
 -->
