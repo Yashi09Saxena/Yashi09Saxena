@@ -6,16 +6,15 @@
 	<a href="https://www.linkedin.com/in/yashisaxena"><img src="https://img.shields.io/badge/LinkedIn--blueviolet.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.instagram.com/_yashisaxena"><img src="https://img.shields.io/badge/Instagram--blueviolet.svg?style=social&logo=Instagram" alt="LinkedIn"></a>                                                                                         
 </p> 
- **I'm a Software Engineer, Sketch artist and Painter**!
- -- 🔭 I’m currently working on java projects
- --  🌱 I’m currently learning professional communication and coding.
- --  👯 I’m looking to collaborate on new ideas
- --  🤔 I’m looking for help with career guidance.
- --  💬 Ask me about creative in work
- --  📫 How to reach me: ysaxena1998@gmail.com
- --  😄 Pronouns: she/her
- --  ⚡ Fun fact: The first computer programmer was a woman named Ada Lovelace.
-
+**Talking about Personal Stuffs:**
+- 👨💻 I’m currently working on java projects.
+- 🌱 I’m currently learning ofessional communication and C++; 
+- 👯 I’m looking to collaborate on new java ideas 🤝;
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: 
+- 📫 How to reach me: ysaxena1998@gmail.com;
+- 📝
 <!--
 **Yashi09Saxena/Yashi09Saxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
