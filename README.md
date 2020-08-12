@@ -14,8 +14,8 @@
 	<a href="https://twitter/YashiSaxena11"><img src="https://img.shields.io/twitter/follow/YashiSaxena11?label=Twitter&style=social" alt="Twitter"></a> 
 	<a href="https://www.linkedin.com/in/yashisaxena"><img src="https://img.shields.io/badge/LinkedIn--blueviolet.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.instagram.com/_yashisaxena"><img src="https://img.shields.io/badge/Instagram--blueviolet.svg?style=social&logo=Instagram" alt="LinkedIn"></a>                                                                                         
-</p>  <img align="right" width="250" height="300"https://user-images.githubusercontent.com/53362962/89996294-3e88f180-dca8-11ea-8c03-251e2035e197.gif>
-<img src="https://github-readme-stats.vercel.app/api?username=Yashi09Saxena&&show_icons=true&title_color=7fdc84&icon_color=e9837c&text_color=daf7dc&bg_color=336699">
+</p>  
+<img src="https://github-readme-stats.vercel.app/api?username=Yashi09Saxena&&show_icons=true&title_color=7fdc84&icon_color=e9837c&text_color=daf7dc&bg_color=336699"><img align="right" width="250" height="300"src=https://user-images.githubusercontent.com/53362962/89996294-3e88f180-dca8-11ea-8c03-251e2035e197.gif>
 <!--
 **Yashi09Saxena/Yashi09Saxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
