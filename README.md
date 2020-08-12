@@ -1,4 +1,4 @@
-## Hi This is Yashi Saxena 👋 <img align="right" width="200" height="300" src=https://user-images.githubusercontent.com/53362962/89995085-a9d1c400-dca6-11ea-8ba4-7ba99cf2bcf6.gif>
+## Hi This is Yashi Saxena 👋 <img align="left" width="300" height="300" bg_color=ffffff src=https://user-images.githubusercontent.com/53362962/89995085-a9d1c400-dca6-11ea-8ba4-7ba99cf2bcf6.gif>
 
 ### I am a Software engineer👩‍💻, sketch artist ✍️, and painter👩‍🎨:
 - 👧💻 I’m currently working on java projects.
