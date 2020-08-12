@@ -1,4 +1,4 @@
-## Hi This is Yashi Saxena 👋 <img align="right" width="50" height="50" bg_color=ffffff src=https://user-images.githubusercontent.com/53362962/89995085-a9d1c400-dca6-11ea-8ba4-7ba99cf2bcf6.gif>  <img align="left" width="300" height="300" src=https://user-images.githubusercontent.com/53362962/89996294-3e88f180-dca8-11ea-8c03-251e2035e197.gif>  
+## Hi This is Yashi Saxena 👋 <img align="right" width="100" height="100" bg_color=ffffff src=https://user-images.githubusercontent.com/53362962/89995085-a9d1c400-dca6-11ea-8ba4-7ba99cf2bcf6.gif>  <img align="left" width="300" height="330" src=https://user-images.githubusercontent.com/53362962/89996294-3e88f180-dca8-11ea-8c03-251e2035e197.gif>  
 
 ### I am a Software engineer👩‍💻, sketch artist ✍️, and painter👩‍🎨:
 - 👧💻 I’m currently working on java projects.
