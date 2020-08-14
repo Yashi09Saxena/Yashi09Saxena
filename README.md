@@ -8,7 +8,7 @@
 - 💬 Ask me about anything, I am happy to help.
 - ⚡️ Fun-Fact: The first computer programmer was a woman named Ada Lovelace. 
 - 📫 How to reach me: ysaxena1998@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1lQYbvDkjDWmRmiXtoC2Zy_6YiS2I0ggv/view?usp=drivesdk)
+- 📝 [Resume](https://drive.google.com/file/d/1v_9jpWAiL6ua4yc1T4FpWQqraXj0L31q/view?usp=drivesdk)
 
 <p align="left">
 	<a href="https://github.com/Yashi09Saxena"><img src="https://img.shields.io/github/followers/Yashi09Saxena.svg?label=GitHub&style=social" alt="GitHub"></a>
